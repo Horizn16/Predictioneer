@@ -11,10 +11,10 @@ https://docs.google.com/spreadsheets/d/1D1ssBh24hHhvofJr1WBtnmjgkIKPqJ1t/edit?us
 <hr/>
 Rules:
 
-- There are rows with missing latitudes and longitudes ignore those 
-- You have CFR data in all rows and deaths in a few and confirmed cases unknown 
+- There are rows with missing latitudes and longitudes are to be ignored.
+- CFR data in present in all rows and deaths in a few and confirmed cases unknown 
 - Deaths you have to predict the gaps and as soon as you have the data for deaths you can get the confirmed cases from CFR ratio 
--  Any exteranl factors that you might think may affect the prediction you can use like temperature or so but you have to provide a clear explaination for the same
+- Any exteranl factors that you might think may affect the prediction you can use like temperature or so but you have to provide a clear explaination for the same
 - Case fatality ratio= (death / confirmed )$* 100$
 - Provide a single CSV file with all the predictions 
 
